@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import json
 
-API_KEY = '7616902302:AAEGgh8qIJduvzDlonlulZdq9pP8wYjcbJs'  # এখানে BotFather থেকে পাওয়া টোকেন বসাও
+API_KEY = '7629037877:AAFvUsE_6ZoRXetfQDRe6_6SjDpOiAMJALo'  # এখানে BotFather থেকে পাওয়া টোকেন বসাও
 bot = telebot.TeleBot(API_KEY)
 
 def load_games():
